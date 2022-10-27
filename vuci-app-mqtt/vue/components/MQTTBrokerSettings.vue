@@ -54,8 +54,7 @@ export default {
     return {
       key_file_path: '/etc/vuci-uploads/key_file.key',
       cert_file_path: '/etc/vuci-uploads/cert_file.pem',
-      ca_file_path: '/etc/vuci-uploads/ca_file.pem',
-      tableRefresh: 0,
+      ca_file_path: '/etc/vuci-uploads/ca_file.pem'
       headers: {
         authorization: 'authorization'
       },
