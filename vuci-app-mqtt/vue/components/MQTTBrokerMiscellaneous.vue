@@ -37,7 +37,7 @@ export default {
   data () {
     return {
       acl_file_path: '/etc/vuci-uploads/acl_file.pem',
-      password_file_path: '/etc/vuci-uploads/password_file.pem',
+      password_file_path: '/etc/vuci-uploads/password_file.pem'
     }
   },
   methods: {
